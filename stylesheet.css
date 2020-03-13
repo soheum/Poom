@@ -31,7 +31,7 @@ img{
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  height: 50vh;
 }
 /* .card_right{
   display: flex;
@@ -39,8 +39,12 @@ img{
   margin-left: -50
 } */
 .logo{
-  width: 20%;
+  margin-top: 25%;
+  width: 40%;
   height: auto;
+}
+.scroll{
+  margin-top: 10%;
 }
 
 .interview0{
